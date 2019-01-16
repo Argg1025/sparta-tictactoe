@@ -96,6 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
     }
+    m = 3;
 
 
     // ==== First turn ====
